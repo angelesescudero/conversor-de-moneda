@@ -23,6 +23,8 @@ Java JDK 11 o superior
 Gson 2.11.0 para manejar JSON
 
 API de ExchangeRate
+![image](https://github.com/user-attachments/assets/d369c26a-acd8-4f63-843f-d901cc6cde66)
+
 
 ## Instrucciones de Ejecución
 Copia de este repositorio.
